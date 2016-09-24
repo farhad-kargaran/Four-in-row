@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Four_in_Row</string>
+
+
+    <string name="tied">game tied</string>
+    <string name="you_loose">you loose</string>
+    <string name="ok">ok</string>
+    <string name="timeup_red">Times Up, yellow win</string>
+    <string name="timeup_yellow">Times Up, red win</string>
+
+    <string name="yellowturn">Yellow Turn</string>
+    <string name="redturn">Red Turn</string>
+    <string name="yellowwin">Yellow wins</string>
+    <string name="redWin">Red Wins</string>
+</resources>
